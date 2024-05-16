@@ -15,7 +15,7 @@ Code repository of [Detecting vertices of building roofs from ALS point cloud da
 |- main_RoofV_det.py        # main script to detect roof vertices.
 |- eval_NoOver.py           # evaluation script
 |- README.md
-|- requirement.txt
+|- requirements.txt
 ```
 
 ## Usage
