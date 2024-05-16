@@ -26,7 +26,7 @@ import utils.read_data as read_data
 
 OPEN_FOLDER = './Data/las-singleroof-50/'
 PCD_TYPE    = '.las'
-StructP_FOLDER =  'structure_line_exp/NoOver_Md/TRD_dataset_savemore/'# ''
+StructP_FOLDER =  ''# for speed up: the existing result folder saving the '_1struc' info. e.g.: 'structure_line_exp/NoOver_Md/TRD_dataset_50_savemore/'
 NEED_CHECKs = './config/sampled_roof_50.txt'
 
 GRID_SIZE   = 0.5
